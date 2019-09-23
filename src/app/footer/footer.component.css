@@ -24,9 +24,9 @@ a, a:active, a:focus{
 	color:#FFF;
 	border-radius:50px;
 	text-align:center;
-    font-size:30px;
+  font-size:30px;
 	box-shadow: 2px 2px 2px #999;
-    z-index:100;
+  z-index:100;
 }
 
 .my-float{
@@ -38,13 +38,13 @@ a, a:active, a:focus{
 	height:60px;
 	bottom:10px;
 	right:2.5em;
-	background-color:#7ca77c;
+  background-color:#7ca77c;
 	color:#FFF;
 	border-radius:50px;
 	text-align:center;
-    font-size:30px;
+  font-size:30px;
 	box-shadow: 2px 2px 2px #999;
-    z-index:100;
+  z-index:100;
 }
 
 .my-float1{
@@ -60,9 +60,9 @@ a, a:active, a:focus{
 	color:#FFF;
 	border-radius:50px;
 	text-align:center;
-    font-size:30px;
+  font-size:30px;
 	box-shadow: 2px 2px 2px #999;
-    z-index:100;
+  z-index:100;
 }
 
 .my-float2{
